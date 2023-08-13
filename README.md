@@ -2,6 +2,8 @@
 
 This repository contains a custom typing animation component built using React. The component simulates a typewriter-like text animation, creating a dynamic and engaging visual effect for your web applications.
 
+![preview](clideo_editor_0fb8b45c22da4b6580cd6512bf0a6782.gif)
+
 ## How to Use
 
 To integrate the custom typing animation into your React app, follow these steps:
